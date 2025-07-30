@@ -37,11 +37,8 @@ log_error() {
     echo -e "${RED}[ERROR]${NC} $1"
 }
 
-# Check if running as root
-if [[ $EUID -eq 0 ]]; then
-   log_error "This script should not be run as root for security reasons"
-   exit 1
-fi
+# Note: Script can now be run as any user including root
+# Root execution is allowed for VPS deployment scenarios
 
 log_info "Starting ARC InfoStealer Dashboard setup..."
 
@@ -54,32 +51,32 @@ log_info "Installing system dependencies..."
 # Update package lists
 sudo apt-get update
 
-# Install Node.js (using NodeSource repository for latest LTS)
+# Install Node.js v18.19.1 (exact version match for consistency)
 if ! command -v node &> /dev/null; then
-    log_info "Installing Node.js..."
-    curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
-    sudo apt-get install -y nodejs
+    log_info "Installing Node.js v18.19.1..."
+    curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+    sudo apt-get install -y nodejs=18.19.1-1nodesource1
 else
     log_success "Node.js already installed ($(node --version))"
 fi
 
-# Install PostgreSQL
+# Install PostgreSQL v16.9 (exact version match for consistency)
 if ! command -v psql &> /dev/null; then
-    log_info "Installing PostgreSQL..."
-    sudo apt-get install -y postgresql postgresql-contrib
+    log_info "Installing PostgreSQL v16.9..."
+    sudo apt-get install -y postgresql=16.9-0ubuntu0.24.04.1 postgresql-contrib=16.9-0ubuntu0.24.04.1
     sudo systemctl start postgresql
     sudo systemctl enable postgresql
 else
-    log_success "PostgreSQL already installed"
+    log_success "PostgreSQL already installed ($(psql --version | head -n1))"
 fi
 
-# Install build tools for native dependencies
+# Install build tools (exact versions for Ubuntu 24.04)
 log_info "Installing build tools..."
-sudo apt-get install -y build-essential python3-dev libpq-dev
+sudo apt-get install -y build-essential=12.10ubuntu1 python3-dev=3.12.3-0ubuntu1 libpq-dev=16.4-1
 
-# Install additional tools for exe-builder
+# Install additional tools for exe-builder (exact versions for Ubuntu 24.04)
 log_info "Installing exe-builder dependencies..."
-sudo apt-get install -y gcc-multilib libc6-dev-i386 mingw-w64
+sudo apt-get install -y gcc-multilib=4:13.2.0-7ubuntu1 libc6-dev-i386=2.39-0ubuntu8.3 mingw-w64=11.0.1-2
 
 # =============================================================================
 # 2. DATABASE SETUP
