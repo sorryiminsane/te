@@ -60,23 +60,23 @@ else
     log_success "Node.js already installed ($(node --version))"
 fi
 
-# Install PostgreSQL v16.9 (exact version match for consistency)
+# Install PostgreSQL v16 (latest available in repo)
 if ! command -v psql &> /dev/null; then
-    log_info "Installing PostgreSQL v16.9..."
-    sudo apt-get install -y postgresql=16.9-0ubuntu0.24.04.1 postgresql-contrib=16.9-0ubuntu0.24.04.1
+    log_info "Installing PostgreSQL v16..."
+    sudo apt-get install -y postgresql-16 postgresql-contrib-16
     sudo systemctl start postgresql
     sudo systemctl enable postgresql
 else
     log_success "PostgreSQL already installed ($(psql --version | head -n1))"
 fi
 
-# Install build tools (exact versions for Ubuntu 24.04)
+# Install build tools (Ubuntu 24.04 compatible)
 log_info "Installing build tools..."
-sudo apt-get install -y build-essential=12.10ubuntu1 python3-dev=3.12.3-0ubuntu1 libpq-dev=16.4-1
+sudo apt-get install -y build-essential python3-dev libpq-dev
 
-# Install additional tools for exe-builder (exact versions for Ubuntu 24.04)
+# Install additional tools for exe-builder (Ubuntu 24.04 compatible)
 log_info "Installing exe-builder dependencies..."
-sudo apt-get install -y gcc-multilib=4:13.2.0-7ubuntu1 libc6-dev-i386=2.39-0ubuntu8.3 mingw-w64=11.0.1-2
+sudo apt-get install -y gcc-multilib libc6-dev-i386 mingw-w64
 
 # =============================================================================
 # 2. DATABASE SETUP
