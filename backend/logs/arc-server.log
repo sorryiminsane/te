@@ -1,0 +1,481 @@
+{"level":"info","message":"Database connection established","timestamp":"2025-07-21T22:21:29.682Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-21T22:21:29.688Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-21T22:21:29.689Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-21T22:22:48.427Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-22T14:17:00.361Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-22T14:17:00.366Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-22T14:17:00.366Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-22T14:17:07.430Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-22T14:17:09.730Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-22T14:17:18.609Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-22T14:17:18.614Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-22T14:17:18.614Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-22T14:28:02.218Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-22T14:28:02.222Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-22T14:28:02.223Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-22T14:47:26.126Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-22T14:47:27.858Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-22T14:47:27.863Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-22T14:47:27.864Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-22T14:47:28.489Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-22T14:47:30.482Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-22T14:47:30.487Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-22T14:47:30.487Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-22T14:55:04.603Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-22T14:55:07.397Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-22T14:55:07.403Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-22T14:55:07.403Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-22T16:33:09.390Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-22T16:33:11.288Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-22T16:33:11.293Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-22T16:33:11.294Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-22T16:40:43.344Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-22T16:40:45.620Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-22T16:40:45.626Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-22T16:40:45.626Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-22T23:19:44.475Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-22T23:19:44.481Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-22T23:19:44.481Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-23T04:55:54.409Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-23T04:55:54.415Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-23T04:55:54.416Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-23T05:57:45.180Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-23T06:00:31.940Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-23T06:00:31.946Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-23T06:00:31.946Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-23T06:23:50.130Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-23T06:23:52.899Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-23T06:23:52.903Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-23T06:23:52.904Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-23T06:28:04.968Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-23T06:28:07.424Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-23T06:28:07.428Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-23T06:28:07.428Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-23T06:37:14.613Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-23T06:37:16.790Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-23T06:37:16.795Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-23T06:37:16.795Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-23T06:39:53.475Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-23T06:40:11.164Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-23T06:40:11.169Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-23T06:40:11.169Z"}
+{"level":"info","message":"Created directory: ./uploads","timestamp":"2025-07-24T18:04:22.438Z"}
+{"level":"info","message":"Created directory: ./temp","timestamp":"2025-07-24T18:04:22.440Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T18:04:22.462Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T18:04:22.464Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T18:04:22.464Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-24T18:10:39.521Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T18:11:24.682Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T18:11:24.686Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T18:11:24.686Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2025-07-24T18:11:40.840Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T18:12:12.042Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T18:12:12.046Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T18:12:12.046Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2025-07-24T18:50:01.572Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T18:59:04.989Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T18:59:04.993Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T18:59:04.994Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-24T19:00:19.760Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T19:02:49.815Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T19:02:49.820Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T19:02:49.820Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-24T19:03:39.581Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T19:07:55.157Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T19:07:55.161Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T19:07:55.161Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-24T19:17:19.579Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T19:17:28.324Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T19:17:28.328Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T19:17:28.328Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2025-07-24T19:21:09.455Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T19:21:10.318Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T19:21:10.322Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T19:21:10.322Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2025-07-24T19:23:27.683Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T19:23:28.478Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T19:23:28.482Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T19:23:28.482Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2025-07-24T19:42:25.182Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T19:42:25.930Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T19:42:25.933Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T19:42:25.934Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2025-07-24T19:50:35.743Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T19:50:36.599Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T19:50:36.603Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T19:50:36.603Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T20:00:03.437Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-24T20:00:21.065Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T20:00:34.107Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T20:00:34.111Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T20:00:34.112Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-24T20:13:49.653Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T20:19:39.861Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T20:19:39.865Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T20:19:39.865Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-24T20:32:07.910Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-24T21:32:32.702Z"}
+{"level":"info","message":"ARC InfoStealer Data Server running on port 3001","timestamp":"2025-07-24T21:32:32.707Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-24T21:32:32.707Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T18:51:12.959Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T18:51:12.964Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T18:51:12.964Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T18:51:12.964Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T18:51:12.964Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T18:52:17.362Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T19:00:46.447Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T19:00:46.452Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T19:00:46.452Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T19:00:46.453Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T19:00:46.453Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T19:03:46.584Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T19:25:41.031Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T19:25:41.035Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T19:25:41.035Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T19:25:41.035Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T19:25:41.036Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T19:29:28.094Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T19:29:31.356Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T19:29:31.360Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T19:29:31.360Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T19:29:31.361Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T19:29:31.361Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T19:38:06.121Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T19:38:08.797Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T19:38:08.801Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T19:38:08.801Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T19:38:08.801Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T19:38:08.802Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T19:41:25.995Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T19:41:28.900Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T19:41:28.904Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T19:41:28.904Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T19:41:28.904Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T19:41:28.904Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T19:52:12.469Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T19:55:08.086Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T19:55:08.091Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T19:55:08.091Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T19:55:08.091Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T19:55:08.091Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T20:32:12.379Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T20:32:56.766Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T20:32:58.940Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T20:32:58.944Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T20:32:58.944Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T20:32:58.944Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T20:32:58.944Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T20:38:26.917Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T20:38:29.577Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T20:38:29.582Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T20:38:29.582Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T20:38:29.582Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T20:38:29.582Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T20:40:01.062Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T20:40:03.066Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T20:40:03.070Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T20:40:03.071Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T20:40:03.071Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T20:40:03.071Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T21:02:06.125Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T21:02:08.254Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T21:02:08.260Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T21:02:08.260Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T21:02:08.261Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T21:02:08.261Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T21:05:47.982Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T21:05:50.093Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T21:05:50.098Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T21:05:50.098Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T21:05:50.098Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T21:05:50.099Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T21:06:55.847Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T21:06:57.635Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T21:06:57.639Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T21:06:57.640Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T21:06:57.640Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T21:06:57.640Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T22:29:41.087Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T22:29:45.537Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T22:29:47.301Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T22:29:47.305Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T22:29:47.305Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T22:29:47.305Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T22:29:47.306Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T22:30:26.435Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T22:30:28.778Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T22:30:28.782Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T22:30:28.782Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T22:30:28.783Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T22:30:28.783Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T22:36:32.806Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T22:36:34.682Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T22:36:34.686Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T22:36:34.686Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T22:36:34.686Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T22:36:34.686Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T22:50:33.257Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T22:50:35.197Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T22:50:35.201Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T22:50:35.201Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T22:50:35.201Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T22:50:35.201Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T23:08:19.349Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T23:08:20.863Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T23:08:20.868Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T23:08:20.868Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T23:08:20.868Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T23:08:20.868Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T23:16:31.899Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T23:16:38.459Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T23:16:38.464Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T23:16:38.464Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T23:16:38.464Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T23:16:38.464Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T23:16:43.598Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T23:18:57.153Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T23:18:57.158Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T23:18:57.158Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T23:18:57.158Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T23:18:57.158Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T23:20:21.004Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T23:20:22.628Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T23:20:22.633Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T23:20:22.633Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T23:20:22.633Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T23:20:22.634Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T23:21:17.870Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T23:21:19.332Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T23:21:19.338Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T23:21:19.338Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T23:21:19.339Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T23:21:19.339Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T23:22:18.834Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T23:22:20.567Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T23:22:20.572Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T23:22:20.572Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T23:22:20.572Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T23:22:20.572Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-25T23:24:12.998Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-25T23:24:13.003Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-25T23:24:13.003Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-25T23:24:13.004Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-25T23:24:13.004Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-25T23:47:09.243Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T03:10:35.150Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T03:10:35.155Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T03:10:35.155Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T03:10:35.155Z"}
+{"level":"info","message":"WebSocket server is running","timestamp":"2025-07-26T03:10:35.155Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T03:39:47.109Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T05:43:12.173Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T05:43:12.178Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T05:43:12.178Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T05:43:12.178Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T05:43:22.797Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T05:43:27.869Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T05:43:27.874Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T05:43:27.874Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T05:43:27.874Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T05:51:43.244Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2025-07-26T05:53:34.441Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T05:54:17.705Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T05:54:17.709Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T05:54:17.710Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T05:54:17.710Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T06:16:59.773Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T06:17:02.560Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T06:17:02.565Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T06:17:02.566Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T06:17:02.566Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T06:21:43.615Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T06:21:46.318Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T06:21:46.323Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T06:21:46.324Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T06:21:46.324Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T06:37:04.986Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T06:37:07.328Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T06:37:07.333Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T06:37:07.334Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T06:37:07.334Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T06:49:21.121Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T06:49:21.126Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T06:49:21.127Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T06:49:21.127Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T07:16:50.703Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T07:16:50.709Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T07:16:50.709Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T07:16:50.709Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T07:21:20.982Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T07:21:22.910Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T07:21:22.915Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T07:21:22.916Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T07:21:22.916Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T08:44:11.704Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T08:44:11.708Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T08:44:11.708Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T08:44:11.708Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T08:47:19.038Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T08:47:21.262Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T08:47:21.266Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T08:47:21.266Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T08:47:21.266Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T08:50:24.159Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T08:50:24.164Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T08:50:24.165Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T08:50:24.165Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T08:53:46.783Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T08:53:51.213Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T08:53:51.217Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T08:53:51.218Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T08:53:51.218Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T08:54:41.760Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T08:54:41.766Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T08:54:41.766Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T08:54:41.766Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T08:59:49.699Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T08:59:54.066Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T08:59:54.072Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T08:59:54.072Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T08:59:54.073Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T09:01:08.278Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T09:02:25.481Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T09:02:25.485Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T09:02:25.486Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T09:02:25.486Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T09:04:22.975Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T09:04:22.979Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T09:04:22.980Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T09:04:22.980Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T09:05:56.095Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T09:05:58.702Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T09:05:58.706Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T09:05:58.707Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T09:05:58.707Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T09:08:25.321Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T09:08:25.326Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T09:08:25.326Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T09:08:25.326Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T09:08:36.441Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T09:09:59.775Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T09:09:59.779Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T09:09:59.780Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T09:09:59.780Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T09:25:50.895Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T09:25:53.028Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T09:25:53.033Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T09:25:53.033Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T09:25:53.033Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T09:46:26.644Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T09:46:29.010Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T09:46:29.016Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T09:46:29.017Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T09:46:29.017Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T09:48:25.291Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T09:48:27.047Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T09:48:27.052Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T09:48:27.052Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T09:48:27.052Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T09:56:06.374Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T09:56:09.237Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T09:56:09.243Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T09:56:09.244Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T09:56:09.244Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T10:12:22.275Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T10:12:24.029Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T10:12:24.034Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T10:12:24.034Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T10:12:24.034Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T10:21:27.765Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-26T10:21:30.466Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-26T10:21:30.472Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-26T10:21:30.472Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-26T10:21:30.472Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-26T10:38:59.605Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T03:15:43.508Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T03:15:43.515Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T03:15:43.515Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T03:15:43.516Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T17:08:18.178Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T17:08:18.187Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T17:08:18.187Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T17:08:18.187Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-27T17:11:21.931Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T17:11:25.427Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T17:11:25.436Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T17:11:25.436Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T17:11:25.436Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T17:12:41.667Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T17:12:41.676Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T17:12:41.676Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T17:12:41.676Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T17:15:08.251Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T17:15:08.259Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T17:15:08.260Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T17:15:08.260Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-27T17:39:52.904Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T17:39:56.229Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T17:39:56.241Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T17:39:56.241Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T17:39:56.241Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T17:51:24.437Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T17:51:24.450Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T17:51:24.450Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T17:51:24.451Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T19:37:15.354Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T19:37:15.362Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T19:37:15.363Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T19:37:15.363Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T19:56:17.971Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T19:56:17.979Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T19:56:17.979Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T19:56:17.980Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T23:19:17.650Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T23:19:17.664Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T23:19:17.664Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T23:19:17.665Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T23:20:39.869Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T23:20:39.883Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T23:20:39.884Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T23:20:39.884Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-27T23:20:49.251Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T23:20:53.335Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T23:20:53.349Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T23:20:53.350Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T23:20:53.350Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-27T23:25:52.202Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T23:26:02.906Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T23:26:02.919Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T23:26:02.920Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T23:26:02.920Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T23:26:52.737Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T23:26:52.750Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T23:26:52.750Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T23:26:52.751Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-27T23:27:11.465Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T23:27:22.858Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T23:27:22.872Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T23:27:22.873Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T23:27:22.873Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T23:27:45.392Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T23:27:45.405Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T23:27:45.406Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T23:27:45.406Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T23:29:09.810Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T23:29:09.824Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T23:29:09.824Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T23:29:09.825Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-27T23:29:24.036Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T23:29:29.319Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T23:29:29.330Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T23:29:29.331Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T23:29:29.331Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-07-27T23:45:34.742Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-27T23:45:38.765Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-27T23:45:38.772Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-27T23:45:38.773Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-27T23:45:38.773Z"}
+{"level":"info","message":"Database connection established","timestamp":"2025-07-29T21:31:09.014Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-07-29T21:31:09.019Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-07-29T21:31:09.019Z"}
+{"level":"info","message":"Database connected: arc_infostealer","timestamp":"2025-07-29T21:31:09.019Z"}

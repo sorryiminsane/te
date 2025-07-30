@@ -1,0 +1,12 @@
+{"code":"22P02","file":"enum.c","length":135,"level":"error","line":"133","message":"Create registration code error: invalid input value for enum user_role: \"ifUser\"","name":"error","routine":"enum_in","severity":"ERROR","stack":"error: invalid input value for enum user_role: \"ifUser\"\n    at C:\\Users\\eight\\CascadeProjects\\b-repo\\dashboard\\backend\\node_modules\\pg\\lib\\client.js:545:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\eight\\CascadeProjects\\b-repo\\dashboard\\backend\\routes\\registration-codes.js:107:24","timestamp":"2025-07-22T16:00:21.677Z","where":"unnamed portal parameter $5 = '...'"}
+{"level":"info","message":"Registration code created: ARC-ZSYE-N3SN-BXP9 (ifUser) by superkittymeow","timestamp":"2025-07-22T16:10:48.512Z"}
+{"level":"info","message":"Registration code created: ARC-89KN-29BK-BDWY (ROP) by superkittymeow","timestamp":"2025-07-22T16:25:17.651Z"}
+{"level":"info","message":"Generated code: ARC-GQAA-TUS7-5VMY, username: arcClientAAeccf462c","timestamp":"2025-07-22T16:33:55.767Z"}
+{"level":"info","message":"Inserting code: ARC-GQAA-TUS7-5VMY, username: arcClientAAeccf462c, role: RUser","timestamp":"2025-07-22T16:33:55.769Z"}
+{"level":"info","message":"Registration code created: ARC-GQAA-TUS7-5VMY (RUser) by superkittymeow","timestamp":"2025-07-22T16:33:55.771Z"}
+{"level":"info","message":"Generated code: ARC-PT48-QTCD-RWWA, username: arcClientAAf30060ddf83341b92","timestamp":"2025-07-22T16:41:12.809Z"}
+{"level":"info","message":"Inserting code: ARC-PT48-QTCD-RWWA, username: arcClientAAf30060ddf83341b92, role: LO","timestamp":"2025-07-22T16:41:12.811Z"}
+{"level":"info","message":"Registration code created: ARC-PT48-QTCD-RWWA (LO) by superkittymeow","timestamp":"2025-07-22T16:41:12.815Z"}
+{"level":"info","message":"Generated code: ARC-EYJX-NV4N-TPHK, username: arcClientAA623217c51ea2c33c","timestamp":"2025-07-22T23:20:21.153Z"}
+{"level":"info","message":"Inserting code: ARC-EYJX-NV4N-TPHK, username: arcClientAA623217c51ea2c33c, role: RUser","timestamp":"2025-07-22T23:20:21.155Z"}
+{"level":"info","message":"Registration code created: ARC-EYJX-NV4N-TPHK (RUser) by superkittymeow","timestamp":"2025-07-22T23:20:21.170Z"}

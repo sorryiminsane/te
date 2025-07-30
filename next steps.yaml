@@ -1,0 +1,19 @@
+# Unified EXE Builder Fix – Next Steps
+
+## Current Error
+Frontend build fails with:
+- unknown type name `file_op_result_t`, `HANDLE`
+- missing constants `FILE_OP_SUCCESS`, `GENERIC_READ`, etc.
+- struct field mismatches (`directory_list_t` has no member named [directories](cci:1://file:///home/outrageouscat774/Documents/watucallit/b/dashboard/backend/exe-builder/build/2a365a9a7dc02b81/file_ops.c:39:0-53:1))
+- generated template .c files do not match existing headers
+
+## Root Cause
+Frontend [builder.js](cci:7://file:///home/outrageouscat774/Documents/watucallit/b/dashboard/backend/exe-builder/builder.js:0:0-0:0) generates new C files in `/build/<id>/` that are incompatible with the headers in `src/`; terminal build uses the working `src/` + Makefile.
+
+## Next Steps (in order)
+
+1. **Makefile – expose variables**
+   ```make
+   BUILD_DIR ?= build
+   OUTPUT    ?= $(BUILD_DIR)/ransom.exe
+   OBJS = $(SRCS:src/%.c=$(BUILD_DIR)/%.o)

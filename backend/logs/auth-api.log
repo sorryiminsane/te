@@ -1,0 +1,25 @@
+{"level":"error","message":"Login error: pchstr must contain a $ as first char","stack":"TypeError: pchstr must contain a $ as first char\n    at deserialize (C:\\Users\\eight\\CascadeProjects\\b-repo\\dashboard\\backend\\node_modules\\@phc\\format\\index.js:147:11)\n    at Object.verify (C:\\Users\\eight\\CascadeProjects\\b-repo\\dashboard\\backend\\node_modules\\argon2\\argon2.js:91:15)\n    at C:\\Users\\eight\\CascadeProjects\\b-repo\\dashboard\\backend\\routes\\auth.js:92:40\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-07-22T14:47:34.673Z"}
+{"level":"info","message":"Successful login for user: superkittymeow (SA)","timestamp":"2025-07-22T14:55:49.333Z"}
+{"level":"info","message":"Successful login for user: superkittymeow (SA)","timestamp":"2025-07-22T23:20:03.651Z"}
+{"level":"warn","message":"Login attempt with invalid password for user: admin","timestamp":"2025-07-24T18:06:24.434Z"}
+{"level":"warn","message":"Login attempt with invalid password for user: admin","timestamp":"2025-07-24T18:06:31.322Z"}
+{"level":"warn","message":"Login attempt with invalid password for user: admin","timestamp":"2025-07-24T18:06:37.246Z"}
+{"level":"info","message":"Successful login for user: admin (SA)","timestamp":"2025-07-24T18:12:17.686Z"}
+{"level":"warn","message":"Login attempt with invalid username: superkittymeow","timestamp":"2025-07-25T19:01:54.099Z"}
+{"level":"warn","message":"Login attempt with invalid username: superkittymeow","timestamp":"2025-07-25T19:02:01.803Z"}
+{"level":"warn","message":"Login attempt with invalid password for user: admin","timestamp":"2025-07-25T19:02:12.079Z"}
+{"level":"warn","message":"Login attempt with invalid username: superkittymeow","timestamp":"2025-07-25T19:02:22.418Z"}
+{"level":"warn","message":"Login attempt with invalid password for user: admin","timestamp":"2025-07-25T19:02:48.188Z"}
+{"level":"warn","message":"Login attempt with invalid password for user: admin","timestamp":"2025-07-25T19:25:53.463Z"}
+{"level":"warn","message":"Login attempt with invalid username: superkittymeow","timestamp":"2025-07-25T19:25:59.652Z"}
+{"level":"warn","message":"Login attempt with invalid password for user: admin","timestamp":"2025-07-25T19:26:28.578Z"}
+{"level":"warn","message":"Login attempt with invalid password for user: admin","timestamp":"2025-07-25T19:26:35.804Z"}
+{"level":"warn","message":"Login attempt with invalid password for user: admin","timestamp":"2025-07-25T19:26:39.998Z"}
+{"level":"info","message":"Successful login for user: admin (SA)","timestamp":"2025-07-25T19:29:37.869Z"}
+{"level":"info","message":"Successful login for user: admin (SA)","timestamp":"2025-07-25T22:29:55.635Z"}
+{"level":"info","message":"Successful login for user: admin (SA)","timestamp":"2025-07-26T03:10:52.711Z"}
+{"level":"info","message":"Successful login for user: admin (SA)","timestamp":"2025-07-26T05:57:22.044Z"}
+{"level":"info","message":"Successful login for user: admin (SA)","timestamp":"2025-07-27T17:08:41.412Z"}
+{"level":"info","message":"Successful login for user: admin (SA)","timestamp":"2025-07-27T17:40:19.783Z"}
+{"level":"info","message":"Successful login for user: admin (SA)","timestamp":"2025-07-27T23:19:55.305Z"}
+{"level":"info","message":"Successful login for user: admin (SA)","timestamp":"2025-07-29T21:31:24.503Z"}
